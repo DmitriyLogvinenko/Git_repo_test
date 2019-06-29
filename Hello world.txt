@@ -1,4 +1,2 @@
-System.out.printLn("Hello world!!!!!!");
-and 1 
-and 2 
-and 3
+System.out.printLn("Hello world)   !!!!
+StringBelly("DopPaket")   !!!!
