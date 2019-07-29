@@ -1,3 +1,5 @@
+System.out.printLn("Hello world)   !!!!
+StringBelly("DopPaket")   !!!!
 System.out.printLn("Hello world!!!");
 print("Hello again!!!!");
 packet master("1");
